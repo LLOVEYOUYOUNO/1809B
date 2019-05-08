@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">1809B</string>
+    <string name="text_loading_reload">重新加载</string>
+    <string name="text_loading_loading">正在加载...</string>
+    <string name="text_loading_error">加载失败，请重试。</string>
+    <string name="text_start_umeng_share">umeng_share</string>
+    <string name="text_start_umeng_login">umeng_login</string>
+    <string name="text_bdmap">BadduMap</string>
+</resources>
