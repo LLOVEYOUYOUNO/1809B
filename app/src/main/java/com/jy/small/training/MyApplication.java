@@ -9,6 +9,7 @@ import com.jy.small.training.utils.Logger;
 import com.umeng.commonsdk.UMConfigure;
 import com.umeng.socialize.PlatformConfig;
 import jy.com.libbdmap.BdMapUtils;
+import jy.com.libjpush.JPushUtils;
 import jy.com.libumengsharelogin.MyUmengUtils;
 
 /*
@@ -23,6 +24,8 @@ public class MyApplication extends Application {
         MyUmengUtils.initUmeng(this);
 
         BdMapUtils.init(this);
+
+        JPushUtils.init(this);
     }
 
 
