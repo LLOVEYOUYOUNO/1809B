@@ -69,4 +69,5 @@ dependencies {
     implementation project(':libumengsharelogin')
     implementation project(':libbdmap')
     implementation project(':libjpush')
+    implementation project(':libeasemob')
 }

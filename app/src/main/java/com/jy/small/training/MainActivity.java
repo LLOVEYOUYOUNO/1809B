@@ -7,6 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
 import jy.com.libbdmap.training.BdMapActivity;
+import jy.com.libeasemob.training.RegisterActivity;
 import jy.com.libumengsharelogin.LoginActivity;
 import jy.com.libumengsharelogin.ShareActivity;
 
@@ -45,6 +46,13 @@ public class MainActivity extends AppCompatActivity {
             case R.id.btn_start_bdmap:{
                 Intent intent = new Intent(this,BdMapActivity.class);
                 startActivity(intent);
+                break;
+            }
+            case  R.id.btn_start_easemob:{
+                Intent intent = new Intent(this,RegisterActivity.class);
+                startActivity(intent);
+
+                break;
             }
         }
     }

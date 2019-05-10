@@ -1,1 +1,1 @@
-include ':app', ':libumengsharelogin', ':libbdmap', ':libjpush'
+include ':app', ':libumengsharelogin', ':libbdmap', ':libjpush', ':libeasemob'
