@@ -5,7 +5,6 @@ import android.app.Application;
 import android.util.Log;
 import com.jy.small.training.utils.Logger;
 import jy.com.libbdmap.BdMapUtils;
-import jy.com.libeasemob.EasemobUtils;
 import jy.com.libjpush.JPushUtils;
 import jy.com.libumengsharelogin.MyUmengUtils;
 
@@ -27,7 +26,7 @@ public class MyApplication extends Application {
 
         JPushUtils.init(this);
 
-        EasemobUtils.init(this);
+        //EasemobUtils.init(this);
 
     }
 

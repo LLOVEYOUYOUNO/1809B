@@ -3,7 +3,10 @@
     <string name="text_loading_reload">重新加载</string>
     <string name="text_loading_loading">正在加载...</string>
     <string name="text_loading_error">加载失败，请重试。</string>
-    <string name="text_start_umeng_share">umeng_share</string>
-    <string name="text_start_umeng_login">umeng_login</string>
-    <string name="text_bdmap">BadduMap</string>
+    <string name="text_start_umeng_share">友盟分享</string>
+    <string name="text_start_umeng_login">友盟登录</string>
+    <string name="text_start_bdmap">百度地图</string>
+    <string name="text_start_jpush">极光推送</string>
+    <string name="text_start_easemob">环信</string>
+    <string name="text_start_contact">联系人列表</string>
 </resources>
